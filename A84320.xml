@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The serious representation of Col. VViliam Eyre prisoner in the castle at Oxford; tendred to the consideration of the Parliament, army, and kingdom, for the clearing of his innocency, and manifesting his integrity toward the freedom of the nation, and establishment of the just power of Parliaments equally representing the people.</title>
+            <author>Eyre, William, 1612 or 13-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84320</idno>
+            <idno type="STC">Wing E3945A</idno>
+            <idno type="STC">ESTC R176902</idno>
+            <idno type="EEBO-CITATION">45789301</idno>
+            <idno type="OCLC">ocm 45789301</idno>
+            <idno type="VID">172610</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84320)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172610)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2641:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The serious representation of Col. VViliam Eyre prisoner in the castle at Oxford; tendred to the consideration of the Parliament, army, and kingdom, for the clearing of his innocency, and manifesting his integrity toward the freedom of the nation, and establishment of the just power of Parliaments equally representing the people.</title>
+                  <author>Eyre, William, 1612 or 13-1670.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: June 11. 1649.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Eyre, William, 1612 or 13-1670.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172610:1" rendition="simple:additions"/>
+            <head>The Serious REPRESENTATION OF Col. VVilliam Eyre Priſoner in the Caſtle at <hi>Oxford;</hi> Tendred to the Conſideration of the Parlia<g ref="char:EOLhyphen"/>ment, Army, and Kingdom, For the clearing of his Innocency, and mani<g ref="char:EOLhyphen"/>feſting his Integrity toward the Freedom of the Nation, and Eſtabliſhment of the juſt Power of Parliaments equally repreſenting the People.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>I Am glad that I have this <hi>opportunity</hi> to clear my ſelf from thoſe <hi>asperſions</hi> caſt upon me by L. G. <hi>Cromwel,</hi> and other Officers, ſaying, That I was rather an <hi>Enemy</hi> to the <hi>Free<g ref="char:EOLhyphen"/>dom of this Nation,</hi> then a <hi>Friend:</hi> I can ſpeak boldly from a <hi>teſtimony</hi> within me, for above theſe twenty years, my <hi>ſpirit</hi> hath been carryed forth always to entreat the Lord that he would make me an <hi>inſtrument</hi> in the removing the <hi>Oppreſſions</hi> from the <hi>People of this Nation,</hi> that hath been and is exerciſed over them by the wills of men, and to deliver the <hi>Jews</hi> from their long captivity: I likewiſe have bin ready to take all <hi>opportunities</hi> to act in any <hi>ſtation</hi> for that end, waiting on <hi>God</hi> for accompliſhing of that he hath promi<g ref="char:EOLhyphen"/>ſed to his People, <hi>to ſet them at liberty.</hi> Fifteen years ago, I was forc'd
+<pb n="2" facs="tcp:172610:2"/>to leave this my Native Land, for oppoſing the <hi>Service book,</hi> and other <hi>Traditions of men,</hi> and lived in <hi>New-England</hi> till the ſitting of the laſt Parliament, at which time I returned to my <hi>Native Country,</hi> with rejoycing, hoping to have ſeen more done by them for the <hi>Freedom of the People,</hi> then yet is; and being at <hi>Sherborn</hi> in the County of <hi>Dorſet,</hi> with my friends, and there denying the <hi>Service book</hi> to be of <hi>Divine Inſtitution,</hi> the Lord <hi>Digby's</hi> Chap<g ref="char:EOLhyphen"/>lains did preach againſt Col. <hi>Star</hi> and my ſelf in the <hi>Aſſembly,</hi> and ſtirred up the people to apprehend us, in ſo much that we both were forc'd to flee for our lives: I fled to <hi>London,</hi> and there was preſerved by Major General <hi>Skippon,</hi> and other friends in <hi>Kent,</hi> till the <hi>Wars</hi> begun; ſeeing that God had given an <hi>opportunity</hi> for the removing all <hi>Tyranny,</hi> I freely offered my ſelf a <hi>Volunteer</hi> in Colonel <hi>Hollis</hi> his Regiment, as a Serjeant under Captain <hi>Lacy,</hi> and what was done by me as an <hi>inſtrument</hi> when my Captain was wounded, and Captain <hi>Parker</hi> and other Officers ran away, at <hi>Edg<g ref="char:EOLhyphen"/>hill,</hi> telling the <hi>Souldiers,</hi> they were all <hi>dead men,</hi> and I ſeeing the Souldiers of the Colonels Company marching off, I ran beyond them, telling them, I would dye before them, if they would not face about: They told me, they had none to lead them: I ſaid, I would; and preſently they followed me with <hi>cheerfulneſs:</hi> I made them Officers of their File-Leaders; And what other <hi>ſervices</hi> were done by me, is well known: and at <hi>Brainford</hi> leading on the firſt <hi>Forlorn-hope;</hi> and fighting the men at the <hi>Brick-kill</hi> all the day after; L. G. <hi>Cromwel</hi> hearing of me, ſent for me, and entreated me to accept of the <hi>Quarter-maſters</hi> place in his Troop, and ſaid he would ſoon make me a <hi>Captain of Horſe,</hi> (for I had deſerved much more;) He further deſired me to help him to ſome <hi>godly men</hi> (for moſt of his Troop were Rogues) telling me, he would fain ſee what a Troop of <hi>godly men</hi> could do; for he ſaid, That, under God, <hi>It must be honest men that must deliver the People from their Oppreſſions:</hi> To anſwer his deſires, I ſent him many <hi>honest men,</hi> and went my ſelf, and in a very ſhort time made him as gal<g ref="char:EOLhyphen"/>lant a Troop as ever marcht in <hi>England;</hi> and what was done by me, in bringing in of <hi>honest men</hi> for the raiſing of his Regiment and Army for the oppoſing of the <hi>Common Enemy,</hi> is well known to moſt of the <hi>Aſſociate Counties,</hi> who will think that L. G. <hi>Crom<g ref="char:EOLhyphen"/>wel</hi> hath loſt the Reaſon of a man, when they hear of his <hi>ungrate<g ref="char:EOLhyphen"/>ful
+<pb n="3" facs="tcp:172610:2"/>dealing</hi> with me, for ſtanding to my firſt <hi>Principles;</hi> and he would often (when he was low) ſtroke me on the head, ſaying, <hi>The Nation was bound to bleſs God for me:</hi> But when he ſaw the Country and Souldiery reſpect me, he and his Creatures ſtudied how to make me odious in the ſight of all honeſt men: and for the <hi>par<g ref="char:EOLhyphen"/>ticular wrongs</hi> he did me, I never ſpake of them till he impriſoned me at <hi>Ware,</hi> and then I ſent him a <hi>memorandum</hi> of all the <hi>particu<g ref="char:EOLhyphen"/>lars:</hi> but for my impriſonment at that time I knew no <hi>cauſe,</hi> but for ſaying to them, That God had owned us and our Cauſe ſo far, that there was no Enemy in the field to oppoſe us, and yet there was nothing done for <hi>England</hi> or <hi>Ireland,</hi> as to a Settlement; and wiſh<g ref="char:EOLhyphen"/>ing them to conſider it, leſt, after all the Blood, Treaſure, and Pain, that had been ſpent, we go back into the wilderneſs of affliction farther then ever: for the <hi>Cavaliers</hi> would take the advantage of the Diſcontents of the People to riſe and make a <hi>new War,</hi> which afterward proved true: For which words many of the Officers would immediately have deſtroyed me, if God had not prevented them. Moreover, I heard Sir <hi>Hardreſs Waller</hi> ſay to L. G. <hi>Crom<g ref="char:EOLhyphen"/>wel</hi> (when they quartered at <hi>Kingston) We'l order</hi> 10000 <hi>men for Ireland, but they ſhall never go thither: We'l give them quar<g ref="char:EOLhyphen"/>ters, and if we have any occaſion to make uſe of them, they are ready; if not, we'l diſband them at Spring, and ſend them for Venice.</hi> Sir <hi>Hardreſs Waller</hi> told Lieut. Col. <hi>Sadler</hi> and my ſelf as much, when their Head-quarters were at <hi>Putney:</hi> My Regiment at their disbanding petitioned to have gone for <hi>Ireland,</hi> if they would have tranſported them, and other Regiments would have done the like, but it would not be granted, although they had faſt<g ref="char:EOLhyphen"/>ed ſeven years for to have relieved that Kingdom: and I know many men have been countenanced and ordered to raiſe men for <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and kept them together till they have undone themſelves, and then have been ordered again to disband: I my ſelf have been coun<g ref="char:EOLhyphen"/>tenanced twice ſince the disbanding of my firſt Regiment: This Spring, I had three Troops that were willing to have engaged in that Service, and L. G. <hi>Cromwel</hi> gave me orders to quarter them, promiſing me within few days I ſhould have a <hi>ſettlement</hi> for it, in the mean time the General put forth a Declaration, That upon pain of death no man ſhould take <hi>quarters</hi> without his <hi>Commiſſion;</hi> upon which I went to L. G. <hi>Cromwel</hi> again, and told him, I
+<pb n="4" facs="tcp:172610:3"/>had given Order to thoſe three Troops to quarter according to his pointment, to which he anſwered, that I ſhould bring in my con<g ref="char:EOLhyphen"/>ditions, for my going to <hi>Ireland,</hi> to him in <hi>Writing,</hi> and on <hi>Thurſday</hi> after I ſhould have a Settlement, which accordingly I did, but nothing was done in it; whereupon the General did call me to a Councel of War for my giving Order to thoſe Troops to quarter as aforeſaid, and then L. G. <hi>Cromwel</hi> did deny that he gave me any order to do it, and likewiſe tore his own Order in peeces; and if I had not had good witneſs to prove it, I had dyed for it. Again, Commiſſary <hi>Ireton</hi> asked me whether I could not go for <hi>Ire<g ref="char:EOLhyphen"/>land</hi> without 4, or 500 men at my heels? I told him if it were his own caſe, that Enemies were in his habitation, he would go with as much ſtrength as he could to remove them; and that my Wife and Childrens loſſes were as great as any that came from <hi>Ireland,</hi> and as yet never received any thing from the Parliament, which augmented my deſires for that Service, to prevent their ruine: To which he replyed, he would threſh for a living rather then to keep up Forces to burthen the Country: I told him that it would be a greater burthen to the Country, if they did disband thoſe Forces, and raiſe other; for it would be time, within a fortnight, to be going, if they did intend to ſend any Force thither this year: He anſwered that they muſt be disbanded: Theſe things being rightly conſidered, I offer it to all rational men, whether they intended for the Relief of <hi>Ireland,</hi> or no. And now to add to my afflicti<g ref="char:EOLhyphen"/>ons, They have caſt me again into priſon, for no cauſe, that I know of, but for owning what we have fought for theſe ſeven years; onely they pretend for my being in the Party that was be<g ref="char:EOLhyphen"/>tray'd at <hi>Burford</hi> in <hi>May</hi> loſt; of which I will give you an Accompt; <hi>(viz.)</hi> I hearing there was a Warrant from <hi>Derby</hi> houſe (who are reſolved, as appears, to act what they pleaſe) to apprehend me; and knowing by ſad experience what it was to fall into their hands, I was loath to expoſe my ſelf to publique view, but withdrew my ſelf into the Country, and being there, I heard of two Regiments that refuſed to go for <hi>IRELAND,</hi> and (deſiring to be ſatisfied upon what Grounds they did it) I came to the Party the ſame day they were betrayed; where, meeting with Cornet <hi>Den,</hi> he told me that they had no other end in what they did,
+<pb n="5" facs="tcp:172610:3"/>but to maintain their Engagements made at <hi>Triploe</hi> Heath, from which many of the Officers had diſſented and brought a reproach up<g ref="char:EOLhyphen"/>on themſelves and the whole Army; therefore they are bound in conſcience to do their endeavor to take it off before they deſert this Nation: To which I anſwer'd, If that were their Reſolution, then I ſhould be glad to ſee them continue faithful therein: He ſaid, If I go to their Randezvouz I ſhould know more of the buſineſs, for the General had ſent Commiſſioners to them, who are to read their Let<g ref="char:EOLhyphen"/>ters at the head of our Troops, and much of the day was ſpent there<g ref="char:EOLhyphen"/>in: as they marched off their Randezvouz, a party of horſe appeared in the field, who, they thought to be the Generals, immediately drew up, reſolving to ſtand to their Engagements, ſaying one to another, It was not the King only they fought againſt, but to take of Tyran<g ref="char:EOLhyphen"/>ny and Oppreſſion from the People, exerciſed now more then ever; the party that did appear was <hi>Reynolds</hi> men, and coming near <hi>New<g ref="char:EOLhyphen"/>bridg</hi> Cornet <hi>Den</hi> underſtood they were interceted by Colonel <hi>Reynolds,</hi> and ſeemed to be angry with the Commiſſioners, telling them, they had abuſed them, for they told them that the General ſaid, That there ſhould be no hoſtility uſed againſt them, till they had ſent an Anſwer, which as yet (they knew) they had no time to write; Major <hi>White</hi> anſwered, That he would loſe his life if <hi>Rey<g ref="char:EOLhyphen"/>nolds</hi> had any Order from the General to keep the bridg; but when they came thither, <hi>Reynolds</hi> affirmed, That he had an Order from the General to keep it, and ſaid, he would loſe his life there before they ſhould paſs; ſo they, unwilling to draw their ſwords againſt their fellow Souldiers, marched over the River a little above the bridg, then Major <hi>White</hi> intreated the Officers to draw into ſome Town to quarter, and to conſider of that Anſwer he had drawn up for them, and did engage his life, that the General ſhould not come near them, nor ſo much as a hair of their heads be touched by him, until they had returned their An<g ref="char:EOLhyphen"/>ſwer; upon which Engagement they went into Quarters, where, before they could finiſh their Anſwer, the General fell upon ſhoot<g ref="char:EOLhyphen"/>ing in at every window where they ſaw light, at which Alarum I wondered, hearing what had paſt betwixt the Commiſſioners and them, for they had not been above an hour and half in their quarters before they fell upon them; as for my own particular I had taken up my Lodging at an Inn upon my own accompt, having no Com<g ref="char:EOLhyphen"/>mand,
+<pb n="6" facs="tcp:172610:4"/>nor being under any, yet was robbed of all I had, and carried before the General, who asked me, What I did there, and who ſent me? I anſwered him, I was able to go about my own buſineſs with<g ref="char:EOLhyphen"/>out ſending; and for my being there, I was a Volunteer at the firſt, and I hoped I might be ſo ſtill, and till that which we fought for were accompliſhed, if there were but ten men appeared for it, I would make eleven. What need you Col. <hi>Eyre,</hi> (ſaith the General) is not all done that we fought for? have we not cut off the Kings head, and the Lords heads? I anſwered, That was not it we fought for, but to remove Oppreſſion and Tyranny, which yet remains? Lieu. Gen. <hi>Crumwel</hi> ſaid, Hark, my Lord, what an inſolent fellow is this, he tells you that Tyranny remains? I told him it was evident. Upon that Lieu. Gen. <hi>Crumwel</hi> railed at me, ſaying, I was a wicked fellow: I deſired him to name any one particular action he ever knew me commit. But to ſtop my mouth he bid the Marſhal take me a<g ref="char:EOLhyphen"/>way, and after three days I was brought by the Generals Warrant to <hi>Oxford</hi> Goal, a Copy of which I have here inſerted. <hi>Viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="warrant">
+                        <p>YOu are herewith to receive from the Marſhal General the body of Mr <hi>Eyres,</hi> who was taken the 14; of this inſtant moneth with the Mutineers at <hi>Burford,</hi> in hoſtility againſt the Par<g ref="char:EOLhyphen"/>liament and Army, and him ſafely keep, until he ſhall be releaſed by due courſe of Law, and hereof you are not to fail, as you will an<g ref="char:EOLhyphen"/>ſwer the contrary.</p>
+                        <closer>
+                           <dateline>Given under my Hand and Seal, <date>May 18. 1649.</date>
+                           </dateline> 
+                           <signed>T. FAIRFAX.</signed>
+                        </closer>
+                        <trailer>To the Keepers of the County Priſon in the Caſtle of <hi>Oxford.</hi>
+                        </trailer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>For the Charge of being in Arms againſt a Parliament I utterly ab<g ref="char:EOLhyphen"/>hor and deny it; I know a Repreſentative legally and ſucceſſively choſen by the People, is the only means under God to preſerve the Nation from Slavery, (provided they be not choſen and kept toge<g ref="char:EOLhyphen"/>ther by the power of the Sword,) and I ſhould rejoyce to ſee ſuch an opportunity offered for all that party in the Nation that have ſtood up for their Liberty, to elect an equall and free Parliament; and for that party, though they were declared Mutineers, they were not declared Enemies when I was with them, neither were they men that had deſerted their Engagements, but ſuch as did deſire to be faithful in what they had promiſed to the People. The Parliament
+<pb n="7" facs="tcp:172610:4"/>formerly pleaded for their Juſtification, touching the late War againſt the King, That Safety was the ſupream Law, and that the People were the beſt Judges of Safety; That although a General had pow<g ref="char:EOLhyphen"/>er to command his Army, and to puniſh with death thoſe that re<g ref="char:EOLhyphen"/>fuſed to obey his Commands in order to ſafety, yet if a General ſhould go about to turn his Artillery upon his own Souldiers, they might not only reaſon the Caſe with him, but hold his hands alſo; and that their Act in ſo doing, being in order to ſafety, was no reſiſt<g ref="char:EOLhyphen"/>ing of Authority, or tranſgreſſion of Law, I ſhall leave it to the ju<g ref="char:EOLhyphen"/>dicious Reader to make application. But to proceed; It is a ſad thing when thoſe that do rule will not keep Engagements, nor ſuffer o<g ref="char:EOLhyphen"/>thers. I have lived among heathens, who have nothing but the light of nature to be their Rule, yet they abhor men that break their Engagements, or commit any diſhoneſt action, ſaying, Such men ſhall go to a bad place when they dye. If heathens live thus, let all us that name the name of Chriſt depart from iniquity. Oh let no man any longer make Religion a cloak for deceit, nor take it upon them to be Chriſtians, when they live and act below the very heathen: For know that God will not be mocked, but will puniſh for thoſe things, though they proſper for a time, for the Lord ſaith, <hi>Their day is coming wherein they ſhall fall, and there ſhall be none to help them.</hi>
+            </p>
+            <p>
+               <hi>Gentlemen,</hi> I cannot forget how often you have declared, that you would do your endeavor to make this Nation free; if you in<g ref="char:EOLhyphen"/>tend it, I deſire you would declare in your laſt Act, (wherein you ſay it ſhall be Treaſon for any man to ſpeak againſt the preſent Govern<g ref="char:EOLhyphen"/>ment,) whether you mean the Government we enjoyed under the late King? If ſo, you all know that the Foundation of that Govern<g ref="char:EOLhyphen"/>ment was eſtabliſht by <hi>Theft</hi> and <hi>Robbery,</hi> when the ſixth Duke of <hi>Normandy</hi> his Baſtard took advantage of the Diſtractions of this Nation, came over with an Army, and perſwaded the Britains to ſit ſtill, and he would eaſe them of all the burdens the Saxons laid upon them, and would preſerve them in all their Rights and Priviledges, they being willing to be eaſed harkened to him, but he had no ſooner overcome the Saxons, but broke all his Engagements he had made to the People of the Nation, turning them all out of their poſſeſſions, except Kent, and carryed moſt of the Gentry beyond the Sea, and gave the Lands and Poſſeſſions of this Realm to his Souldiers, ma<g ref="char:EOLhyphen"/>king
+<pb n="8" facs="tcp:172610:5"/>of them Knights, and Lords, and Free-holders in every County, and ſuch of the common people that would uſe their own Land, were to enjoy it from them under the tenure of Knight-Service and Villanage, but ſince have brought it to Copy and Leaſe-hold, forcing our Anceſtors from generation to generation, to buy their own Lands, or elſe their children were turned out of doors: to maintain this they baniſhed all the Miniſtry, and brought Prieſts from <hi>France,</hi> and made them Maſters of all the Pulpits in the Land, who preached up the Power the Baſtard had thus got, to be the Power of God, and to be the Lords anointed: alſo he erected a Foundation of Laws, ſummoning the people from all parts of the Land to their new made Courts at <hi>Westminſter,</hi> the people then crying out for a Parliament, which was granted to them, but none ſuffered to have a Vote in the Election of the Members but Free-holders, which were moſt of them their own creatures; ſo to this day moſt of the People know not their Rights, for the Law is in an unknown tongue, therefore this Government cannot ſet them free, and there is yet none other eſta<g ref="char:EOLhyphen"/>bliſh'd; and if you mean that which remains in your wills, you did ill to cut off the Kings head; for going about to rule according to his will. I cannot forget that you have declared and voted the <hi>People</hi> under God the <hi>Fountain</hi> and <hi>Original</hi> of all <hi>juſt Power,</hi> I therefore deſire you to caſt your ſelves upon the <hi>People,</hi> whoſe <hi>Servants</hi> ye <hi>ought</hi> to be, that they might immediately chooſe a new Repreſenta<g ref="char:EOLhyphen"/>tive, who may erect a juſt Foundation of Government, and proffer it to the People for their aſſent, that they may chooſe who they pleaſe to ſee it executed, that for ever there may be a diſtinction between Law Makers and Law Executors. This I offer as my Judgment, conceiving it to be every Engliſh-mans Birth-right; Thus hoping that you that take it upon you to be the Keepers of the Liberties of <hi>England,</hi> will not keep my liberty from me, but allow me my Birth-right, who do remain yours to ſerve you for the good of the Nation,</p>
+            <closer>
+               <dateline>From my unjuſt Impriſonment in Oxford Goal, <date>June 11. 1649.</date>
+               </dateline>
+               <signed>WIL. EYRE.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
